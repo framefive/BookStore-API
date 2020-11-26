@@ -1,0 +1,4 @@
+2020-11-24 17:08:53.9217 INFO Accessed Home Controller
+2020-11-24 17:09:23.9183 DEBUG Got s Vslue
+2020-11-24 17:12:26.3924 ERROR This is an Error
+2020-11-24 17:13:51.7067 WARN This is a Warning
