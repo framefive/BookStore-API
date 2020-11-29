@@ -1,0 +1,29 @@
+2020-11-27 12:14:14.7632 INFO Attempted Get All Authors
+2020-11-27 12:14:16.4718 INFO Successfully got all authors
+2020-11-27 12:17:20.8868 INFO Attempted Get All Authors
+2020-11-27 12:17:51.4863 ERROR A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified) - 
+2020-11-27 20:35:01.0651 INFO Attempted Get All Author with id
+2020-11-27 20:35:31.8747 ERROR A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified) - 
+2020-11-27 20:36:00.7619 INFO Attempted Get All Authors
+2020-11-27 20:36:30.4173 ERROR A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified) - 
+2020-11-27 20:38:06.5153 INFO Attempted Get All Author with id
+2020-11-27 20:39:02.7360 INFO Attempted Get All Author with id
+2020-11-27 20:39:17.9031 INFO Attempted Get All Author with id
+2020-11-27 20:39:35.8759 ERROR A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified) - 
+2020-11-27 20:40:56.8863 ERROR A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified) - 
+2020-11-27 20:41:26.7900 INFO Attempted Get All Author with id
+2020-11-27 20:41:47.6793 INFO Attempted Get All Author with id
+2020-11-27 20:48:42.1887 INFO Attempted Get All Author with id
+2020-11-27 20:49:02.0024 INFO Attempted Get All Author with id
+2020-11-27 20:50:17.0246 ERROR A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified) - 
+2020-11-27 20:50:17.0246 ERROR A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified) - 
+2020-11-27 20:51:05.7220 INFO Attempted Get All Author with id
+2020-11-27 20:51:35.2744 ERROR A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified) - 
+2020-11-27 20:56:43.1250 INFO Attempted Get All Author with id
+2020-11-27 20:56:48.3521 INFO Attempted Get All Author with id
+2020-11-27 20:57:13.9232 ERROR A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified) - 
+2020-11-27 20:57:13.9232 ERROR A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified) - 
+2020-11-27 20:58:22.2340 INFO Attempted Get All Author with id
+2020-11-27 20:58:23.4973 WARN Author with Id: {id} not found
+2020-11-27 20:58:40.1996 INFO Attempted Get All Author with id
+2020-11-27 20:58:40.2561 WARN Author with Id: {id} not found

@@ -1,0 +1,35 @@
+2020-11-28 11:58:16.8143 INFO Author Submission Attempted
+2020-11-28 11:58:18.6670 INFO Author Created
+2020-11-28 11:58:51.9355 INFO Author Submission Attempted
+2020-11-28 11:58:52.0037 INFO Author Created
+2020-11-28 15:51:16.6701 INFO Author Update Attempted - id: 1
+2020-11-28 15:51:16.8013 ERROR Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> Author
+System.Object -> BookStore_API.Data.Author - 
+2020-11-28 15:53:09.8565 INFO Author Update Attempted - id: 1
+2020-11-28 15:55:19.5455 INFO Author Update Attempted - id: 1
+2020-11-28 15:55:21.1807 ERROR An error occurred while updating the entries. See the inner exception for details. - Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert explicit value for identity column in table 'Authors' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__164_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__274_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:5e63eecc-3fa7-4080-b178-08f7a381f0b1
+Error Number:544,State:1,Class:16
+2020-11-28 15:56:41.3065 INFO Author Update Attempted - id: 1
+2020-11-28 15:57:31.7647 INFO Author Update Attempted - id: 1
+2020-11-28 15:58:08.5666 INFO Attempted Get All Authors
+2020-11-28 15:58:08.8616 INFO Successfully got all authors
+2020-11-28 20:58:09.8923 INFO Author Delete Attempted - id: 2
+2020-11-28 20:58:11.3480 INFO Author with Id:2 successfully deleted
+2020-11-28 20:58:26.5404 INFO Attempted Get All Authors
+2020-11-28 20:58:26.6165 INFO Successfully got all authors
