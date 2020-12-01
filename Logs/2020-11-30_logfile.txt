@@ -1,0 +1,8 @@
+2020-11-30 21:12:59.3079 INFO Books = Create: Create Attempted
+2020-11-30 21:13:00.9307 INFO Books = Create: Create Successful
+2020-11-30 21:14:59.1143 INFO Book Delete Attempted - id: 3
+2020-11-30 21:14:59.7112 ERROR Books = Delete: Unable to cast object of type 'System.Decimal' to type 'System.Double'. - 
+2020-11-30 21:16:23.8234 INFO Book Delete Attempted - id: 3
+2020-11-30 21:16:25.3646 ERROR Books = Delete: Unable to cast object of type 'System.Decimal' to type 'System.Double'. - 
+2020-11-30 21:27:23.0570 INFO Book Delete Attempted - id: 4
+2020-11-30 21:27:24.5965 INFO Book with Id:4 successfully deleted
