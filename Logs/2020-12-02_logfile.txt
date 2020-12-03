@@ -1,0 +1,16 @@
+2020-12-02 18:27:51.1484 INFO Users = Login: Login Attemp from user admin
+2020-12-02 18:27:51.3948 INFO Users = Login: admin Successfully Authenticated
+2020-12-02 20:08:06.8854 INFO Users = Login: Login Attemp from user admin
+2020-12-02 20:08:07.1092 INFO Users = Login: admin Successfully Authenticated
+2020-12-02 20:15:51.0912 INFO Users = Login: Login Attemp from user admin
+2020-12-02 20:15:51.3137 INFO Users = Login: admin Successfully Authenticated
+2020-12-02 20:20:00.0871 INFO Users = Login: Login Attemp from user admin
+2020-12-02 20:20:00.3494 INFO Users = Login: admin Successfully Authenticated
+2020-12-02 20:52:22.9464 INFO Authors = GetAuthors: Attempted Call
+2020-12-02 20:52:23.0950 INFO Authors = GetAuthors: Successful
+2020-12-02 21:17:52.2372 INFO Users = Login: Login Attemp from user customer1
+2020-12-02 21:17:52.4258 INFO Users = Login: customer1 Successfully Authenticated
+2020-12-02 21:21:39.4459 INFO Users = Login: Login Attemp from user admin
+2020-12-02 21:21:39.4910 INFO Users = Login: admin Successfully Authenticated
+2020-12-02 21:22:13.1734 INFO Authors = Create: Create Attempted
+2020-12-02 21:22:13.4052 INFO Authors = Create: Author Created
